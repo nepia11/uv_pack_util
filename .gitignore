@@ -1,0 +1,6 @@
+# .vscode
+.venv
+.mypy_cache
+# Pipfile.lock
+__pycache__
+*.log*
